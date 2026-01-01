@@ -6,3 +6,5 @@ __pycache__/
 files/*
 testing.py
 build/
+dist/*
+bad_apple.mp4
